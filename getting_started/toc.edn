@@ -4,4 +4,7 @@
     ["Some subtitle"]
     ["Some other subtitle" ["Okok this is too much"] ["Sub sub title"]]
     ["Then back up"]]]}
- {:file "download_and_setup.md", :toc [["Download and Setup"]]}]
+ {:file "download_and_setup.md",
+  :toc
+  [["Download and Setup"
+    ["Links" ["Official links"] ["Unofficial links"]]]]}]
