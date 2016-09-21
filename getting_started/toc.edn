@@ -1,1 +1,7 @@
-{:files ["introduction.md" "download_and_setup.md"], :tocs {"introduction.md" [["Introduction" ["Some subtitle"] ["Some other subtitle" ["Okok this is too much"] ["Sub sub title"]] ["Then back up"]]], "download_and_setup.md" [["Download and Setup"]]}}
+[{:file "introduction.md",
+  :toc
+  [["Introduction"
+    ["Some subtitle"]
+    ["Some other subtitle" ["Okok this is too much"] ["Sub sub title"]]
+    ["Then back up"]]]}
+ {:file "download_and_setup.md", :toc [["Download and Setup"]]}]
